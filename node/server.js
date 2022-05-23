@@ -4,6 +4,14 @@ var request = require("request");
 var cheerio = require("cheerio");
 var app = express();
 
+// app.set("view engine", "blade.php");
+// app.set("resources/views", path.json(__dirname, "views"));
+// app.post("/cretae", function (req, res) {
+//     return res.render("practise", {
+//         title: "Lets us play with us",
+//     });
+// });
+
 //Scraping start
 app.get("/scrape", function (req, res) {
     request("https://news.ycombinator.com", function (error, response, html) {

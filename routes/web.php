@@ -18,3 +18,4 @@ Route::get('/', function () {
 });
 
 Route::get('data-scraping', 'App\Http\Controllers\DataScrapingController@index');
+Route::post("addProduct",'App\Http\Controllers\DataScrapingController@add_products');

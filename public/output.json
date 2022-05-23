@@ -1,234 +1,242 @@
 [
     {
         "rank": 1,
-        "title": "Lotus 1-2-3 For Linux",
-        "url": "https://lock.cmpxchg8b.com/linux123.html",
-        "points": 205,
-        "username": "taviso",
+        "title": "Useless Use of \"dd\" (2015)",
+        "url": "https://www.vidarholen.net/contents/blog/?p=479",
+        "points": 148,
+        "username": "RaoulP",
         "comments": 3
     },
     {
         "rank": 2,
-        "title": "Rustdesk – Remote desktop software, an open source TeamViewer alternative",
-        "url": "https://rustdesk.com/",
-        "points": 119,
-        "username": "yarapavan",
-        "comments": 3
+        "title": "“What if it changes?”",
+        "url": "https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes",
+        "points": 277,
+        "username": "goostavos",
+        "comments": 8
     },
     {
         "rank": 3,
-        "title": "How to Be Successful",
-        "url": "https://blog.samaltman.com/how-to-be-successful",
-        "points": 41,
-        "username": "Brajeshwar",
+        "title": "What’s in Which Python",
+        "url": "https://nedbatchelder.com/text/which-py.html",
+        "points": 38,
+        "username": "gammarator",
         "comments": 2
     },
     {
         "rank": 4,
-        "title": "Ancient civilisation under eastern Turkey estimated to be 11k-13k years old",
-        "url": "https://www.spectator.co.uk/article/does-an-unknown-extraordinarily-ancient-civilisation-lie-buried-under-eastern-turkey-",
-        "points": 565,
-        "username": "benbreen",
-        "comments": 14
+        "title": "Feather Wiki – A lightweight quine for simple wikis",
+        "url": "https://feather.wiki/",
+        "points": 148,
+        "username": "AMICABoard",
+        "comments": 5
     },
     {
         "rank": 5,
-        "title": "5 Megawatt Nitinol Engine by Mcdonnell Douglas (2015) [video]",
-        "url": "https://www.youtube.com/watch?v=8-dCIkJAjyM",
-        "points": 107,
-        "username": "cmroanirgo",
-        "comments": 5
-    },
-    {
-        "rank": 6,
-        "title": "Running PyTorch on the M1 GPU",
-        "url": "https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html",
-        "points": 15,
-        "username": "my123",
-        "comments": 1
-    },
-    {
-        "rank": 7,
-        "title": "On Aging Alone (2021)",
-        "url": "https://thewalrus.ca/on-aging-alone/",
-        "points": 236,
-        "username": "drdee",
-        "comments": 10
-    },
-    {
-        "rank": 8,
-        "title": "Python Standard Library changes in recent years",
-        "url": "https://antonz.org/python-stdlib-changes/",
-        "points": 164,
-        "username": "nalgeon",
-        "comments": 9
-    },
-    {
-        "rank": 9,
-        "title": "World’s largest vertical strawberry farm opens in Jersey City",
-        "url": "https://njbiz.com/worlds-largest-vertical-strawberry-farm-opens-in-jersey-city/",
-        "points": 65,
-        "username": "ClosedPistachio",
-        "comments": 8
-    },
-    {
-        "rank": 10,
-        "title": "Corsi–Rosenthal Box",
-        "url": "https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box",
-        "points": 48,
-        "username": "lelf",
-        "comments": 6
-    },
-    {
-        "rank": 11,
-        "title": "Teach your kids poker, not chess",
-        "url": "https://momentofdeep.substack.com/p/teach-your-kids-poker-not-chess",
-        "points": 126,
-        "username": "sxv",
-        "comments": 11
-    },
-    {
-        "rank": 12,
-        "title": "Silly Lossy Text Compression Idea",
-        "url": "https://snufk.in/blog/silly-compression-text.html",
-        "points": 39,
-        "username": "Tomte",
-        "comments": 5
-    },
-    {
-        "rank": 13,
-        "title": "“Amateur” programmer fought cancer with 50 Nvidia Geforce 1080Ti",
-        "url": "https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer",
-        "points": 978,
-        "username": "coolwulf",
-        "comments": 19
-    },
-    {
-        "rank": 15,
-        "title": "How to Paint a Crosswalk",
-        "url": "https://crosswalksla.org/how-to-guide.html",
-        "points": 93,
-        "username": "clairity",
-        "comments": 12
-    },
-    {
-        "rank": 16,
-        "title": "Show HN: Parsing a Reverse Polish Expression",
-        "url": "http://lambdaway.free.fr/lambdawalks/?view=funstacker2",
-        "points": 23,
-        "username": "martyalain",
-        "comments": 5
-    },
-    {
-        "rank": 17,
-        "title": "Pike Programming Language",
-        "url": "https://pike.lysator.liu.se/",
-        "points": 96,
-        "username": "diggernet",
-        "comments": 12
-    },
-    {
-        "rank": 18,
-        "title": "What Ever Happened to Scandium Bike Frames? (2016)",
-        "url": "https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html",
-        "points": 75,
-        "username": "aranchelk",
-        "comments": 11
-    },
-    {
-        "rank": 19,
-        "title": "Extracting Triangular 3D Models, Materials, and Lighting from Images",
-        "url": "https://nvlabs.github.io/nvdiffrec/",
-        "points": 63,
-        "username": "tomatowurst",
-        "comments": 11
-    },
-    {
-        "rank": 20,
-        "title": "That Time I Saved the VR Club",
-        "url": "https://www.hatingonoats.com/blog/That%20Time%20I%20Saved%20The%20VR%20Club",
-        "points": 13,
-        "username": "0uobatchy",
+        "title": "Is This a Tank?",
+        "url": "https://acoup.blog/2022/05/13/collections-ancient-tanks-chariots-scythed-chariots-and-carroballistae/",
+        "points": 61,
+        "username": "CHB0403085482",
         "comments": 4
     },
     {
+        "rank": 6,
+        "title": "Case Studies in USB-C Debugging – Analog and digital compliance of a PD-enable",
+        "url": "https://medium.com/@kolluru.nathan/case-studies-in-usb-c-debugging-93cc3e8bbc0c",
+        "points": 31,
+        "username": "todsacerdoti",
+        "comments": 3
+    },
+    {
+        "rank": 7,
+        "title": "Before Ships Used GPS, There Was the Fresnel Lens",
+        "url": "https://spectrum.ieee.org/fresnel-lens-milestone",
+        "points": 35,
+        "username": "pseudolus",
+        "comments": 3
+    },
+    {
+        "rank": 8,
+        "title": "Blinkenlights: PC Binary Emulating Visualizer",
+        "url": "https://justine.lol/blinkenlights/",
+        "points": 81,
+        "username": "yakshaving_jgt",
+        "comments": 6
+    },
+    {
+        "rank": 9,
+        "title": "Grandpa’s Basement House",
+        "url": "https://www.granolashotgun.com/granolashotguncom/hp5pmb0n95ut9hyeatewotgd2n1ebr",
+        "points": 277,
+        "username": "cubix",
+        "comments": 12
+    },
+    {
+        "rank": 10,
+        "title": "The Vulnerable World Hypothesis [pdf]",
+        "url": "https://www.nickbostrom.com/papers/vulnerable.pdf",
+        "points": 13,
+        "username": "lawrenceyan",
+        "comments": 2
+    },
+    {
+        "rank": 11,
+        "title": "Faster CRC32 on the Apple M1",
+        "url": "https://dougallj.wordpress.com/2022/05/22/faster-crc32-on-the-apple-m1/",
+        "points": 304,
+        "username": "panic",
+        "comments": 14
+    },
+    {
+        "rank": 12,
+        "title": "Details on AMD's Quirky Chipset Solutions for AM5",
+        "url": "https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy",
+        "points": 107,
+        "username": "walterbell",
+        "comments": 8
+    },
+    {
+        "rank": 13,
+        "title": "Lofi.co – Relax and Focus",
+        "url": "https://lofi.co/",
+        "points": 223,
+        "username": "evo_9",
+        "comments": 11
+    },
+    {
+        "rank": 14,
+        "title": "Empirical Notes on Kissing",
+        "url": "https://belkarx.github.io/posts/finished/Empirical%20Notes%20on%20Kissing.html",
+        "points": 96,
+        "username": "belkarx",
+        "comments": 5
+    },
+    {
+        "rank": 15,
+        "title": "Add motion to your web apps with a single line of code",
+        "url": "https://github.com/formkit/auto-animate",
+        "points": 101,
+        "username": "feross",
+        "comments": 7
+    },
+    {
+        "rank": 16,
+        "title": "Goodbye smallpox vaccination, hello monkeypox (2010)",
+        "url": "https://www.nationalgeographic.com/science/article/goodbye-smallpox-vaccination-hello-monkeypox",
+        "points": 13,
+        "username": "tosh",
+        "comments": 1
+    },
+    {
+        "rank": 17,
+        "title": "Simple software things that are actually very complicated",
+        "url": "https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587",
+        "points": 124,
+        "username": "AshleysBrain",
+        "comments": 9
+    },
+    {
+        "rank": 18,
+        "title": "STUNner: A Kubernetes ingress gateway for WebRTC",
+        "url": "https://github.com/l7mp/stunner",
+        "points": 17,
+        "username": "Sean-Der",
+        "comments": 3
+    },
+    {
+        "rank": 19,
+        "title": "MasterCard to launch biometric checkout tool for retailers",
+        "url": "https://www.retaildive.com/news/mastercard-biometric-checkout-retailers/624056/",
+        "points": 35,
+        "username": "walterbell",
+        "comments": 6
+    },
+    {
+        "rank": 20,
+        "title": "Programming with Nothing",
+        "url": "https://tomstu.art/programming-with-nothing",
+        "points": 94,
+        "username": "ivanvas",
+        "comments": 10
+    },
+    {
         "rank": 21,
-        "title": "Language Design in the Real World",
-        "url": "https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/",
-        "points": 3,
-        "username": "yeputons",
+        "title": "Ventilated Prose (2009)",
+        "url": "https://vanemden.wordpress.com/2009/01/01/ventilated-prose/",
+        "points": 7,
+        "username": "Tomte",
         "comments": 1
     },
     {
         "rank": 22,
-        "title": "HP Dev One Laptop with Pop_OS",
-        "url": "https://hpdevone.com/",
-        "points": 254,
-        "username": "pbui",
-        "comments": 12
-    },
-    {
-        "rank": 23,
-        "title": "How Airbnb Built “Wall” to prevent data bugs",
-        "url": "https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs-ad1b081d6e8f",
-        "points": 104,
-        "username": "charlysl",
-        "comments": 14
-    },
-    {
-        "rank": 24,
-        "title": "Lightbulbs Were So Startup",
-        "url": "https://interconnected.org/home/2022/05/18/edison",
-        "points": 49,
-        "username": "kerneis",
+        "title": "Current guidelines for sun exposure are unhealthy and unscientific – research (2019)",
+        "url": "https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/",
+        "points": 374,
+        "username": "mmanfrin",
         "comments": 11
     },
     {
-        "rank": 25,
-        "title": "When eBPF meets TLS. Defeating TLS encryption with eBPF tricks [pdf]",
-        "url": "https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf",
-        "points": 96,
-        "username": "guedou",
+        "rank": 23,
+        "title": "Are Prompt-Based Models Clueless?",
+        "url": "https://arxiv.org/abs/2205.09295",
+        "points": 16,
+        "username": "PaulHoule",
+        "comments": 5
+    },
+    {
+        "rank": 24,
+        "title": "Show HN: Remult – a CRUD framework for full-stack TypeScript",
+        "url": "https://github.com/remult/remult",
+        "points": 115,
+        "username": "yonirapoport",
         "comments": 14
+    },
+    {
+        "rank": 25,
+        "title": "Apple Cash",
+        "url": "https://www.apple.com/apple-cash/",
+        "points": 56,
+        "username": "jeanniesarah",
+        "comments": 7
     },
     {
         "rank": 26,
-        "title": "Monitor Radiation with a Raspberry Pi",
-        "url": "https://nbailey.ca/post/radiation-monitor/",
-        "points": 63,
-        "username": "Group_B",
-        "comments": 13
+        "title": "Intel plans immersion lab to chill its power-hungry chips",
+        "url": "https://www.theregister.com/2022/05/19/intel_immersion_lab/",
+        "points": 62,
+        "username": "rntn",
+        "comments": 12
     },
     {
         "rank": 27,
-        "title": "9-Euro-Ticket",
-        "url": "https://www.bahn.com/en/offers/regional/9-euro-ticket-en",
-        "points": 801,
-        "username": "_Microft",
-        "comments": 23
+        "title": "Constraint-based geometry (CAD) sketcher for Blender",
+        "url": "https://github.com/hlorus/CAD_Sketcher",
+        "points": 88,
+        "username": "khimaros",
+        "comments": 12
     },
     {
         "rank": 28,
-        "title": "Bombe Machine on an FPGA",
-        "url": "https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2022/az292_kw456_lh479/az292_kw456_lh479/index.html",
-        "points": 75,
-        "username": "vha3",
-        "comments": 14
+        "title": "How This Ends",
+        "url": "https://avc.com/2022/05/how-this-ends-2/",
+        "points": 403,
+        "username": "imartin2k",
+        "comments": 15
     },
     {
         "rank": 29,
-        "title": "Programming Burnout",
-        "url": "https://tsk.bearblog.dev/programming-burnout/",
-        "points": 31,
-        "username": "memorable",
-        "comments": 4
+        "title": "Kable (YC W22) Is Hiring Founding Software Engineers (US/Remote)",
+        "url": "https://www.ycombinator.com/companies/kable/jobs/h3wKq6F-founding-backend-software-engineer",
+        "points": 12,
+        "username": "hide",
+        "comments": null
     },
     {
         "rank": 30,
-        "title": "Nuclear fusion has encountered a shortage of tritium",
-        "url": "https://www.wired.co.uk/article/nuclear-fusion-is-already-facing-a-fuel-crisis",
-        "points": 80,
-        "username": "smusamashah",
-        "comments": 15
+        "title": "SQLite may become foundational for digital progress",
+        "url": "https://venturebeat.com/2022/05/20/why-sqlite-may-become-foundational-for-digital-progress/",
+        "points": 136,
+        "username": "alexrustic",
+        "comments": 10
     }
 ]
