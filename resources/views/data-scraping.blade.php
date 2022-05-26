@@ -9,18 +9,19 @@
 <body>
 
 <div class="container">
-	@foreach($data as $key => $value)
+	
 	<div class="col-sm-12">
-      	<a href="{!! $value->url !!}">
-      		<h3 class="title">{!! $value->title !!}</h3>
+      	<a href="">
+      		<h3 class="title">{{ $data['posts']['text'] }}</h3>
       	</a>
       	<p class="text-muted">
-	      	<strong>Points :</strong> {!! $value->points !!}
-	      	<strong>Comments :</strong> {!! $value->comments !!}
+	      	<strong>Points :</strong> {{ $data['posts']['post_id'] }}
+	      	<strong>Comments :</strong> {{ $data['posts']['comments'] }}
       	</p>
-      	<p class="text-muted">Posted by <a href="#">{!! $value->username !!}</a></p>
+		  <img src="{{$data['posts']['image']}}" alt="">
+      	<p class="text-muted">Posted by <a href="{{ $data['posts']['link'] }}">{{ $data['posts']['link'] }}</a></p>
     </div>
-    @endforeach
+    
 </div>
 
 </body>

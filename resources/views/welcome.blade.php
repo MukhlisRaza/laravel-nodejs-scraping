@@ -23,7 +23,7 @@
     <body class="antialiased">
       <form action="/addProduct" method="POSt">
           @csrf
-          <input type="url" name="url" required placeholder="Enter url">
+          <input type="text" name="txt" required placeholder="Enter url">
           <input type="submit" value="Submit">
       </form>
     </body>
